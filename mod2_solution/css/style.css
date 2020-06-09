@@ -13,11 +13,18 @@ h3{
 	width:40%;
 	margin-left: 60%;
 	text-align: center;
-	background-color: #5F9EA0;
 	color:white;
 	padding: 5px;
 }
-
+#Chicken{
+	background-color:#5F9EA0 ;
+}
+#Beef{
+	background-color: #95212c;
+}
+#Sushi{
+	background-color: #d97761;
+}
 section{
 	background-color: #e0e0e0;	
 	border: 1px solid black;
